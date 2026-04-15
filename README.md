@@ -16,7 +16,7 @@ This project was developed under a Research Initiation (IC) grant given by the S
 
 ## **Results from the projects can be found here:**
 
-### [⛈️ Rainfall trends using CHIRPS 🗺️](https://github.com/fulan-m/AraPresSao_._I-SICAm-VIII-JoGAAm-UFSCar-2025)
+### [⛈️ Rainfall trends using CHIRPS 🗺️](https://github.com/fulan-m/AraPresSao/tree/main/I-SICAm-VIII-JOGAAm-UFSCar-2025)
 
 <div align='justify'>
 
@@ -24,7 +24,7 @@ Through the Google Earth Engine platform, the Theil-Sen estimates of rainfall tr
 
 </div>
 
-### [📉 Rainfall ARIMA modeling ☔️](https://github.com/fulan-m/AraPresSao_._32-JJI-2025)
+### [📉 Rainfall ARIMA modeling ☔️](https://github.com/fulan-m/AraPresSao/tree/main/32-JJI-2025)
 
 <div align='justify'>
 
